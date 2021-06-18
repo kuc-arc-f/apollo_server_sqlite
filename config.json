@@ -1,0 +1,9 @@
+{
+  "development": {
+      "host": "test-server",
+      "DB_FILE_NAME": "./db1.sqlite"
+  },
+  "production" : {
+      "host": "honban-server"
+  }
+}
